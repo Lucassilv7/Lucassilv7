@@ -24,3 +24,4 @@ Minha jornada com linguagens de programação tem sido bastante diversificada. A
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucassilv7&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassilv7&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
